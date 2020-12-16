@@ -1,4 +1,4 @@
-<h1 align="center" >Парсер кодов</h1> 
+<h1 align="center" >Поиск кодов</h1> 
 
  - Устанавливаем окружение: python3.9 -m venv myvenv; source myvenv/bin/activate
 
